@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Vinayak Kalatippi
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-End
+
